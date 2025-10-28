@@ -5,8 +5,8 @@
 
 ## Arquitetura básica S3/Lambda Function
 
-<img src="./assets/Lambda e S3.webp" alt="instancia S3 e Lambda Function" width="450"/>
+<img src="./assets/Lambda e S3.jpg" alt="instancia S3 e Lambda Function" width="450"/>
 
 ## Arquitetura básica EC2/EBS
 
-<img src="./assets/EBS e EC2.webp" alt="instancia S3 e Lambda Function" width="450"/>
+<img src="./assets/EBS e EC2.jpg" alt="instancia S3 e Lambda Function" width="450"/>
